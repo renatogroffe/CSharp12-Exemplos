@@ -1,7 +1,7 @@
 ﻿using System.Runtime.InteropServices;
 using System.Text.Json;
 
-Console.WriteLine("***** Testes com C# 12 | Console Expressions *****");
+Console.WriteLine("***** Testes com C# 12 | Collection Expressions *****");
 Console.WriteLine($"Versao do .NET em uso: {RuntimeInformation
     .FrameworkDescription} - Ambiente: {Environment.MachineName}- Kernel: {Environment
     .OSVersion.VersionString}");
